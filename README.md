@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibatt Othniel-Onyx</h1>
-<h3 align="center">Full-Stack Developer | Software Engineering Student | Based in Manchester, UK</h3>
+<h3 align="center">Full-Stack Developer | Software Engineer | Based in Manchester, UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=othnielonyx&label=Profile%20views&color=0e75b6&style=flat" alt="othnielonyx" /> </p>
 
@@ -61,10 +61,6 @@ Key Modules: Software Quality Management, Full-Stack Dev, Data Structures & Algo
 [![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](http://www.linkedin.com/in/othniel-onyx-39b666333)
 
 ---
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=othnielonyx&theme=onedark" alt="othnielonyx" />
-</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othnielonyx&layout=compact" alt="othnielonyx" />
